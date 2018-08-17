@@ -1,7 +1,7 @@
 jocean-http
 ============
 
-jocean's HTTP over Netty 4.x, API over RxJava 1.x
+jocean's HTTP over Netty 4.x, API over RxJava 2.x
 
 2015-11-22: release 0.0.1 版本:
     
